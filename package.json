@@ -1,0 +1,23 @@
+{
+  "name": "whatever",
+  "version": "1.0.0",
+  "description": "Going to create small things so that I have more commits each day. Must program to be a programmer, not just read and teach code. there is a difference lol. I dont know why I am writing this to myself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffeggink/whatever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffeggink/whatever/issues"
+  },
+  "homepage": "https://github.com/jeffeggink/whatever#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.0"
+  }
+}
