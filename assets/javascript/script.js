@@ -1,3 +1,5 @@
+import { request } from "http";
+
 const num1 = 9
 
 const num2 = 1
@@ -20,3 +22,4 @@ if (num1 > num2) {
 } else {
    console.log('boo')
 };
+request
